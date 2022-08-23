@@ -1,18 +1,8 @@
-/*************************************************
- *         © Keysight Technologies 2019 
+/****************************************************
  *
- * PROPRIETARY RIGHTS of Keysight Technologies are 
- * involved in the subject matter of this software. 
- * All manufacturing, reproduction, use, and sales 
- * rights pertaining to this software are governed 
- * by the license agreement. The recipient of this 
- * code implicitly accepts the terms of the license. 
- *
- ***************************************************
- *
- * FILE NAME  :  M1_L2_T1_Digital_Input.c      
- * DESCRIPTION:  This program outputs the status of
- *               button B3, pressed = 0 otherwise 1.
+ * FILE NAME  :  TemperatureAlarm.c     
+ * DESCRIPTION:  This program monitores the temperature and compares it with the threshold to set the alarm off and the status of
+ *               buttons to turn the alarm off
  * *************************************************/
  
 //BUTTONS
