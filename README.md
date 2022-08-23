@@ -1,5 +1,5 @@
 ## TemperatureAlarm
-This project simulates a temperature detecting alarm system.
+This project simulates a temperature detecting alarm system on  a Keysight U3810A IoT kit.
 
 The user sets a preset temperature and while monitoring, when the temperature is above the preset value the user is notified by a blinking LED to disarm the alarm. After 1 minute if the user does not notice the LED and disarm the alarm the LED blinks faster. After 2 minutes the fan/relay is turned on while
 the LED still blinks.
